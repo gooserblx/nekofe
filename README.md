@@ -3,4 +3,4 @@
 :3
 # loadsting
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/gooserblx/nekofe/main/neko", true))()
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/gooserblx/nekofe/main/neko", true))()`
